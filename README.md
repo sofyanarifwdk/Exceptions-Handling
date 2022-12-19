@@ -4,7 +4,7 @@
     except:
         print("An exception occurred")
 
-<img src="img/try.PNG" alt="img1" width="478" height="60">
+<img src="img/try2.PNG" alt="img1" width="478" height="60">
     
     # Print one message if the try block raises a NameError and another for other errors:
     try:
